@@ -1,1 +1,1 @@
-This remo was created from a starter template for [Learn Next.js](https://nextjs.org/learn) while trying to understand what NextJS is and how it works.
+This demo was created from a starter template for [Learn Next.js](https://nextjs.org/learn) while trying to understand what NextJS is and how it works.
